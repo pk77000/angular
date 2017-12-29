@@ -1,0 +1,29 @@
+1.create a folder say angular-demo
+2.right click and click on git bash here
+
+3.type command - git clone https://github.com/jmcooper/ng2-fundamentals.git
+
+4.in visual studio code - click on open folder and select - D:\prk\angular_demo\ng2-fundamentals
+5. npm install
+6. go to bash - command - git add *.json
+7. git commit -m "added a lock file"
+
+8. npm start - if you getting error after file update
+
+
+
+-----------------
+git command
+-------
+
+git remote -v
+
+git remote add origin4 https://github.com/pk77000/angular-repo.git
+
+git push origin4 master
+
+
+
+
+
+
